@@ -1,2 +1,15 @@
-# ensiie-agile-project
-Template of a github project for 2nd year students in ENSIIE for Agile methodology courses
+# Nom du projet
+
+## Equipe 
+- Prénom, Nom, groupe
+- Prénom, Nom, groupe
+- Prénom, Nom, groupe
+- Prénom, Nom, groupe
+- Prénom, Nom, groupe
+- Prénom, Nom, groupe
+
+## Description du projet
+Description fonctionnelle du projet en quelques phrases
+
+
+
